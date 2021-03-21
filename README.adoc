@@ -1,0 +1,41 @@
+= games maken met roblox
+Games maken met roblox is een boek dat leert hoe je games kan maken met roblox.
+
+
+== Wat heb je nodig om mee te helpen aan dit boek ?
+
+Eerst moet je https://www.ruby-lang.org/en/[ruby] instaleren op je pc. Instaleer daarna asciidoctor via een terminal.
+
+[source]
+----
+gem install asciidoctor
+----
+
+je hebt ook asciidoctor-pdf nodig als je wilt exporteren naar pdf en asciidoctor-epub3 voor te exporteren naar epub.
+
+[source]
+----
+gem install asciidoctor-pdf
+----
+
+[source]
+----
+gem install asciidoctor-epub3
+----
+
+Als je deze packages geinstaleer hebt kan je beginnen. lees zeker is een keer dit artikel als je nog nooit met asciidocs gewerkt hebt: https://asciidoctor.org/docs/asciidoc-writers-guide/.
+
+== Structuur
+
+Alle bestanden vind je terug in de folder games_maken_met_roblox. Elke folder stelt een hoofdstuk voor met daarin alles bestanden voor dat hoofdstuk. Alle folder starten met een nummer en dan een underscore. Deze nummer staan voor de volegorde waarin ze verschijnen in het boek. Dit geld ook voor alle bestanden in een folder.
+
+=== index.adoc
+Het bestand index.adoc is het main bestand dat alle andere bestanden  van alle folders bij een voegt. Als je een niew bestand aanmaakt moet je deze aan de index.adoc.
+
+== exporteren
+
+Er zijn twee bat bestanden meegeleverd. eentje voor te exporteren naar pdf en eenntje voor te exporteren naar epub. Deze kan je gewoon uitvoeren via een terminal. Als alles goet is gegaan vershijnt er een folder genaamd "build". met daarin je bestand.
+
+
+
+

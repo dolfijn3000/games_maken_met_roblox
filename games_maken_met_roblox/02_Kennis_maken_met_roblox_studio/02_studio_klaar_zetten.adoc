@@ -1,0 +1,16 @@
+== Roblox studio klaar zetten
+
+Nu dat je een nieuw project hebt een gemaakt kunnen starten met bouwen. Als je roblox studio voor de eerste keer opstarten gaat het er ongeveer zo uitzien:
+
+image::02/02/fig1.png[]
+
+Het kan zijn dat het er bij jou wat anders uitziet. Dat is niet erg je kan dan nog altijd mee volgen.
+Om het wat gemakkelijker te maken gaan we onnodige dingen voor nu sluiten. Normaal staat er rechts van roblox studio 2 schermen open. Eentje met de naam “Explorer” en eentje met de naam “Properties”. Deze schermen mag je sluiten door op het kruisje te drukken.
+
+image::02/02/fig2.png[width="50%",align="center"]
+
+Nu moet je normaal een groot scherm hebben zoals dit:
+
+image::02/02/fig3.png[]
+
+Indien er bij jou nog andere schermen openstaan naast “Properties” en “Explorer” dan mag je deze ook sluiten. 

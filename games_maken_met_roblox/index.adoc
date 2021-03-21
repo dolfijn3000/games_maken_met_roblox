@@ -1,0 +1,13 @@
+:imagesdir: ../images
+:toc:
+:reproducible:
+:listing-caption: Listing
+:icons: font
+
+= games maken met roblox 
+<<<
+
+include::02_Kennis_maken_met_roblox_studio\01_Een_nieuw_project_starten.adoc[]
+include::02_Kennis_maken_met_roblox_studio\02_studio_klaar_zetten.adoc[]
+
+

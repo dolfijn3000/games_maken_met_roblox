@@ -1,0 +1,40 @@
+
+== Een nieuw project starten
+
+Er zijn 2 manieren om een nieuw project te starten. 
+
+- Via de roblox website.
+- Via roblox studio op je computer.
+
+Het is aangeraden dat je de eerste keuze pakt. 
+
+
+== Een nieuw project via de roblox website
+
+Ga naar de website van roblox (www.roblox.com). En klik vanboven op de website op de knop “Create”.
+
+image::02/01/fig1.png[]
+
+Als je hier op heb gedrukt kom je op deze pagina terecht:
+
+image::02/01/fig2.png[]
+
+Klik hier op de knop “Create new game”
+
+image::02/01/fig3.png[]
+
+Zorg ervoor dat op de volgende pagina “Baseplate” ge selecteer staat. En klik daarna op “Basic settings”
+
+image::02/01/fig4.png[]
+
+Kies nu een naam voor je project en vul deze in het tekstvak onder “Name:”. Je mag zelf kiezen hoe je het noemt ik noem het in dit geval “coderojo roblox”. Nadat je de naam hebt ingevuld mag je op de knop “Create” drukken.
+
+image::02/01/fig5.png[]
+
+Nadat je op “Create Game” hebt gedrukt word je terug naar de hoofd pagina voor al je projecten gestuurd. Je project komt nu hier te voor schijn. Als je nu aan je spel wilt werken druk je gewoon op de edit knop en dan zal roblox studio opstarten.
+
+image::02/01/fig6.png[]
+
+Nadat je op “edit” hebt gedrukt zal de web browser vragen of je studio wilt opstarten. Klik het vinkje aan dat de browser dit niet meer komt vragen en klik dan op open.
+
+image::02/01/fig7.png[]
