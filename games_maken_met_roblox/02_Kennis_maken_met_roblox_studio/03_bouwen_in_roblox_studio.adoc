@@ -1,0 +1,73 @@
+
+== bouwen in roblox studio
+
+Nu dat alles klaar staat kunnen we beginnen met iets te bouwen. Als je de stappen in het vorige deel goed hebt gevolgt zou je nu een groot scherm moeten hebben. Dit scherm toont jouw spel. We gaan deze dus ook gebruiken om te bouwen. Vanboven op je scherm heb je verschillende knoppen opgedeeld in secties. Dit word de “ribbon bar” genoemt. Ga naar de sectie “Insert” en druk op de knop “Part”.
+
+image::02/03/fig1.png[]
+
+Als je op deze knop hebt gedrukt komt er een steen te voorschijn. In roblox noemt zo een steen een “part”
+
+image::02/03/fig2.png[]
+
+=== een part verplaatsen
+Laten we wat dingen doen met onze steen ! Ga naar de “tools” sectie en klik op de knop move.
+
+image::02/03/fig3.png[]
+
+Er verschijnen nu verschillende pijlen rond ons part. Indien dit niet het geval is moet je is een keer klikken op je part om deze te selecteren.
+
+image::02/03/fig4.png[]
+
+Met deze pijlen kan je een part verplaatsen In de richting van de pijl. Dit doe je door je muis op een van de pijlen te zetten. Hou dan de linker muis knop ingedrukt en sleep de muis in de richting waar de pijl heen wijst.
+
+image:02/03/fig5.png[,325] image:02/03/fig6.png[,325]
+
+=== Een part vergroten/verkleinen
+
+We kunnen een part ook vergroten of verkleinen. Dit doe je door op de “scale” tool te selecteren.
+
+image::02/03/fig7.png[]
+
+Deze tool werkt hetzelfde zoals de move tool. Alleen heb je hier geen pijltjes maar bollen. Deze bollen kun je met je muis vasthouden en dan slepen om het part groter te maken.
+
+image:02/03/fig8.png[,325] image:02/03/fig9.png[,325]
+
+
+=== Een part roteren
+
+Je kan een part ook ronddraaien. Dit doe je met de “rotate tool”.
+
+image::02/03/fig10.png[]
+
+Bij deze tool komen er cirkels rond je part te voorschijn. Hou een van de cirkels vast en beweeg je muis dan in de richting waarin je wilt dat je part draait.
+
+image:02/03/fig11.png[,325] image:02/03/fig12.png[,325]
+
+
+
+
+=== Een part een kleur geven
+
+We kunnen een part ook een andere kleur geven.  Hiervoor moet je de “color” knop gebruiken bij de “edit” sectie. 
+
+image::02/03/fig13.png[]
+
+Deze knop bestaat uit 2 delen.
+
+image::02/03/fig14.png[]
+
+Op het eerste deel kan je een kleur zien. Dit is de kleur die je momenteel geselecteerd hebt. Als je een part selecteert en dan op deze knop drukt, dan zal het part deze kleur krijgen.
+Met het tweede deel kan je een kleur selecteren. Als je op deze knop drukt zal er een klein menu openen om een kleur te selecteren. 
+
+image::02/03/fig15.png[]
+
+=== Een part een materiaal geven
+
+Naast kleuren kunnen we een part ook van materiaal veranderen. Deze knop staat links van de “Color” knop. En net zoals bij de “Color“ knop bestaat deze uit 2 delen.
+
+image::02/03/fig16.png[]
+
+Het eerste deel toont welk materiaal geselecteerd is. (In dit geval is er nog geen materiaal geselecteerd.) En als je een part selecteert en dan op deze knop drukt krijgt dat part het geselecteerde materiaal.
+Met het tweede deel kunnen we materiaal selecteren.  Als je op deze knop drukt krijg je een lijst met alle materialen die in roblox beschikbaar zijn. 
+
+image:02/03/fig17.png[,150] image:02/03/fig18.png[,400]
