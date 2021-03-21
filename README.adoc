@@ -32,6 +32,10 @@ Alle bestanden vind je terug in de folder games_maken_met_roblox. Elke folder st
 === index.adoc
 Het bestand index.adoc is het main bestand dat alle andere bestanden  van alle folders bij een voegt. Als je een niew bestand aanmaakt moet je deze aan de index.adoc.
 
+
+=== fotos.
+er is ook een folder "images" hier ziten alle fotos in die in het boek gebruikt worden. Ze zijn geordend volgens de bestanden waar ze in zitten. bijvoorbeeld. Foto 02/01/fig2.png zit in hoofdstuk 2 in het eerste bestand. En is de tweede foto in dar bestand
+
 == exporteren
 
 Er zijn twee bat bestanden meegeleverd. eentje voor te exporteren naar pdf en eenntje voor te exporteren naar epub. Deze kan je gewoon uitvoeren via een terminal. Als alles goet is gegaan vershijnt er een folder genaamd "build". met daarin je bestand.
